@@ -417,9 +417,9 @@ The API returns the following response:
 
 [source,txt]
 ---------------------------------------------------------------------------
-my-index-000001 0 p STARTED    3014 31.1mb 192.168.56.10 H5dfFeA
-my-index-000001 0 r STARTED    3014 31.1mb 192.168.56.30 bGG90GE
-my-index-000001 0 r STARTED    3014 31.1mb 192.168.56.20 I8hydUG
+my-index-000001 0 p STARTED
+my-index-000001 0 r STARTED
+my-index-000001 0 r STARTED
 my-index-000001 0 r UNASSIGNED ALLOCATION_FAILED
 ---------------------------------------------------------------------------
 // TESTRESPONSE[non_json]
